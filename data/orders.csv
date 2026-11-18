@@ -1,0 +1,4 @@
+order_id,channel,product,sold_at,currency,gross_minor
+O01,官方,联票A,2026-10-28,CNY,10001
+O02,合作方甲,联票A,2026-10-29,CNY,8000
+O03,官方,联票B,2026-11-02,CNY,12000
